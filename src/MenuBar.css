@@ -1,0 +1,52 @@
+/* .navbar{
+    box-shadow: none !important; 
+} */
+
+#navbarDaniel {
+  box-shadow: none;
+}
+
+#dropFood {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+#dropWestern {
+  text-align: center;
+  padding: 0rem 0rem;
+}
+
+#dropAsian {
+  text-align: center;
+  padding: 0rem 0rem;
+}
+
+#dropOther {
+  text-align: center;
+  padding: 0rem 0rem;
+}
+
+#dropTech {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+#dropHardware {
+  text-align: center;
+  padding: 0rem 0rem;
+}
+
+#dropSoftware {
+  text-align: center;
+  padding: 0rem 0rem;
+}
+
+#dropML {
+  text-align: center;
+  padding: 0rem 0rem;
+}
+
+.nav-item {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
